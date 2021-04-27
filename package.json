@@ -1,0 +1,25 @@
+{
+  "name": "object-ball",
+  "version": "1.0.0",
+  "description": "## Objectives 1. Practice building nested objects. 2. Practice iterating over nested objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyirwin/object-ball.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyirwin/object-ball/issues"
+  },
+  "homepage": "https://github.com/dannyirwin/object-ball#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+
+}
